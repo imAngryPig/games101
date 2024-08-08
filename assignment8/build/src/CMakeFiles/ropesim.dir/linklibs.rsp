@@ -1,0 +1,1 @@
+ ../CGL/src/libCGL.a ../CGL/deps/glew/libglew.a ../CGL/deps/glfw/src/libglfw3.a -lopengl32 -lopengl32 -lglu32 "F:/study/CG_CV/CG/dependencies/freetype-windows-binaries-2.12.1/release dll/win64/freetype.dll" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

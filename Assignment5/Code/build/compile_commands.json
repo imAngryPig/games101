@@ -1,0 +1,17 @@
+[
+{
+  "directory": "F:/study/CG_CV/CG/Assignment5/Code/build",
+  "command": "F:\\study\\CG_CV\\CG\\dependencies\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\main.cpp.obj -c F:\\study\\CG_CV\\CG\\Assignment5\\Code\\main.cpp",
+  "file": "F:/study/CG_CV/CG/Assignment5/Code/main.cpp"
+},
+{
+  "directory": "F:/study/CG_CV/CG/Assignment5/Code/build",
+  "command": "F:\\study\\CG_CV\\CG\\dependencies\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Scene.cpp.obj -c F:\\study\\CG_CV\\CG\\Assignment5\\Code\\Scene.cpp",
+  "file": "F:/study/CG_CV/CG/Assignment5/Code/Scene.cpp"
+},
+{
+  "directory": "F:/study/CG_CV/CG/Assignment5/Code/build",
+  "command": "F:\\study\\CG_CV\\CG\\dependencies\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\RayTracing.dir\\Renderer.cpp.obj -c F:\\study\\CG_CV\\CG\\Assignment5\\Code\\Renderer.cpp",
+  "file": "F:/study/CG_CV/CG/Assignment5/Code/Renderer.cpp"
+}
+]

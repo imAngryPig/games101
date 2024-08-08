@@ -1,0 +1,22 @@
+[
+{
+  "directory": "F:/study/CG_CV/CG/Assignment3/Code/build",
+  "command": "F:\\study\\CG_CV\\CG\\dependencies\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.cpp.obj -c F:\\study\\CG_CV\\CG\\Assignment3\\Code\\main.cpp",
+  "file": "F:/study/CG_CV/CG/Assignment3/Code/main.cpp"
+},
+{
+  "directory": "F:/study/CG_CV/CG/Assignment3/Code/build",
+  "command": "F:\\study\\CG_CV\\CG\\dependencies\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.cpp.obj -c F:\\study\\CG_CV\\CG\\Assignment3\\Code\\rasterizer.cpp",
+  "file": "F:/study/CG_CV/CG/Assignment3/Code/rasterizer.cpp"
+},
+{
+  "directory": "F:/study/CG_CV/CG/Assignment3/Code/build",
+  "command": "F:\\study\\CG_CV\\CG\\dependencies\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj -c F:\\study\\CG_CV\\CG\\Assignment3\\Code\\Triangle.cpp",
+  "file": "F:/study/CG_CV/CG/Assignment3/Code/Triangle.cpp"
+},
+{
+  "directory": "F:/study/CG_CV/CG/Assignment3/Code/build",
+  "command": "F:\\study\\CG_CV\\CG\\dependencies\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Texture.cpp.obj -c F:\\study\\CG_CV\\CG\\Assignment3\\Code\\Texture.cpp",
+  "file": "F:/study/CG_CV/CG/Assignment3/Code/Texture.cpp"
+}
+]

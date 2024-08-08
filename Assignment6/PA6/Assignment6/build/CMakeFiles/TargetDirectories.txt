@@ -1,0 +1,3 @@
+F:/study/CG_CV/CG/Assignment6/PA6/Assignment6/build/CMakeFiles/RayTracing.dir
+F:/study/CG_CV/CG/Assignment6/PA6/Assignment6/build/CMakeFiles/edit_cache.dir
+F:/study/CG_CV/CG/Assignment6/PA6/Assignment6/build/CMakeFiles/rebuild_cache.dir
